@@ -8,5 +8,3 @@ I have created 2d top-down mini-golf game using python and pygame
 
 - [saif agamy](https://github.com/saif-agamy)
 - [hossam mohamed](https://github.com/Hossam-MHMAD)
-
-![Dashboard Screenshot](assets/images/dashboard.png)
