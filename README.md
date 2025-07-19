@@ -5,11 +5,11 @@ A fun and lightweight mini-golf game built in C++ (or your language) featuring s
 
 # Demo & Media
 <h3>Level 1 Demo</h3>
-<img src="ScreenShots/L2.png" width="400" height="200">
-![Level 2](ScreenShots/L2.png)
-![Level 3](ScreenShots/L3.png)
-![Level 4](ScreenShots/L4.png)
-![Level 5](ScreenShots/L5.png)
+<img src="ScreenShots/L1.png" width="400" height="400">
+<img src="ScreenShots/L2.png" width="400" height="400">
+<img src="ScreenShots/L3.png" width="400" height="400">
+<img src="ScreenShots/L4.png" width="400" height="400">
+<img src="ScreenShots/L5.png" width="400" height="400">
 
 # Features
 - 🎯 Multiple playable holes with obstacles
