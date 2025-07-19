@@ -21,7 +21,7 @@ class game:
     self.clock = pygame.time.Clock()
     pygame.display.set_caption('Mini-Golf')
 
-    self.current_level = 1
+    self.current_level = 5
     self.current_level_strikes = 0
 
     # texts
